@@ -1,6 +1,11 @@
-# Problem Statement
+---
+dsa-patterns: math
+difficulty: easy
+companies: Accenture
+dg-publish: true
+---
 
-**Difficulty:** `Easy`
+# Problem Statement
 
 There are two inputs C and N given, where C represents the capacity of a ship and N represents the number of people to transport. Determine how many rounds does the ship with capacity C have to take to transport N people from point A to point B.
 

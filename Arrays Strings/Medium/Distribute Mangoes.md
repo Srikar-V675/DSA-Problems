@@ -1,3 +1,12 @@
+---
+dsa-patterns: 
+- '[[Combinations]]'
+difficulty: medium
+companies: 
+- Accenture 
+- Nagarro
+dg-publish: true
+---
 # Problem Description
 
 You are given m identical mangoes and n identical people. Your task is to find the number of ways to distribute the m mangoes among the n people such that each person can receive zero or more mangoes.
@@ -45,7 +54,7 @@ Since we need to divide `m` mangoes among `n` people, we need to place `n-1` div
 
 Example:
 
-![Mangoes](image-3.png)
+![Mangoes](DSA-Problems/Arrays%20Strings/Medium/image-3.png)
 
 ```
 m = 5 mangoes

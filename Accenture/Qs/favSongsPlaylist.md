@@ -1,3 +1,12 @@
+---
+dsa-patterns: 
+- "[[Sliding-Window]]"
+- "[[Strings]]"
+difficulty: medium
+companies: 
+- Accenture
+dg-publish: true
+---
 # Problem Statement
 
 **Difficulty:** `Easy`
